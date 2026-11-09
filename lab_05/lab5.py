@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 
+
+
 class GridMap:
     """Модель сетки склада с препятствиями."""
     def __init__(self, size=10):
@@ -216,3 +218,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#v
